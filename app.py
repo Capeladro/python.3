@@ -1,5 +1,7 @@
 
+
 import os 
+
 
 #inserir 2 restaurantes na list
 restaurantes=['Bife Sujo', 'Saco de Feijão'] 
